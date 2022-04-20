@@ -32,8 +32,6 @@
 	<integer>1</integer>
 	<key>DVTFontSizeModifier</key>
 	<integer>10</integer>
-	<key>DVTLineSpacing</key>
-	<real>1.1000000238418579</real>
 	<key>DVTMarkupTextBackgroundColor</key>
 	<string>0.08 0.08 0.08 1</string>
 	<key>DVTMarkupTextBorderColor</key>
@@ -85,7 +83,7 @@
 	<key>DVTScrollbarMarkerWarningColor</key>
 	<string>0.937255 0.717647 0.34902 1</string>
 	<key>DVTSourceTextBackground</key>
-	<string>0.00517167 0.0505733 0.0391429 1</string>
+	<string>0 0 0 1</string>
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.5 0.5 0.5 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
@@ -158,7 +156,7 @@
 		<key>xcode.syntax.attribute</key>
 		<string>FiraCode-Retina - 22.0</string>
 		<key>xcode.syntax.character</key>
-		<string>HelveticaNeue-Thin - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.comment</key>
 		<string>FiraCode-Retina - 22.0</string>
 		<key>xcode.syntax.comment.doc</key>
@@ -200,13 +198,13 @@
 		<key>xcode.syntax.markup.code</key>
 		<string>FiraCode-Regular - 22.0</string>
 		<key>xcode.syntax.number</key>
-		<string>HelveticaNeue-Thin - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.plain</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>FiraCode-Retina - 22.0</string>
 		<key>xcode.syntax.string</key>
-		<string>HelveticaNeue-Thin - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.url</key>
 		<string>FiraCode-Retina - 22.0</string>
 	</dict>
