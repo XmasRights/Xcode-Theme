@@ -113,29 +113,29 @@
 		<key>xcode.syntax.declaration.type</key>
 		<string>0.155622 0.90913 0.94777 1</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>0 0.834662 0.129817 1</string>
+		<string>0 0.61782 0.376238 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.0156863 0.654902 0.466667 1</string>
+		<string>0.00392157 0.831373 0.290196 1</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>0 0.834662 0.129817 1</string>
+		<string>0 0.61782 0.376238 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.0156863 0.654902 0.466667 1</string>
+		<string>0.00392157 0.831373 0.290196 1</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>0 0.834662 0.129817 1</string>
+		<string>0 0.61782 0.376238 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.0156863 0.654902 0.466667 1</string>
+		<string>0.00392157 0.831373 0.290196 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.896 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
 		<string>0.896 0.488 0.284 1</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>0 0.834662 0.129817 1</string>
+		<string>0 0.61782 0.376238 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.0156863 0.654902 0.466667 1</string>
+		<string>0.00392157 0.831373 0.290196 1</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>0 0.834662 0.129817 1</string>
+		<string>0 0.61782 0.376238 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.0156863 0.654902 0.466667 1</string>
+		<string>0.00392157 0.831373 0.290196 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.686275 0.988235 0.254902 1</string>
 		<key>xcode.syntax.mark</key>
@@ -172,15 +172,15 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>FiraCode-Retina - 22.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -188,11 +188,11 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.keyword</key>
 		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.mark</key>
@@ -202,7 +202,7 @@
 		<key>xcode.syntax.number</key>
 		<string>HelveticaNeue-Thin - 22.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>FiraCode-Retina - 22.0</string>
+		<string>FiraCode-Light - 22.0</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>FiraCode-Retina - 22.0</string>
 		<key>xcode.syntax.string</key>
